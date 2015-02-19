@@ -1,5 +1,7 @@
 # Gradle Initiated Java Project
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vedab/gradle-init-java-prj/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 This folder has the very basic structure for Gradle execution.
 
 ## Prerequisite
